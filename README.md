@@ -6,4 +6,4 @@ THESE ARE MY MINI REACT PRACTICE PROJECTS
 2.PIZZA MENU
 3.EAT-AND-SPLIT
 4.A static MOVIE RATING layout.(without api fetch)..
-5.Text expander component (practice)...
+5.Text expander component (practice)..
