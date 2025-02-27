@@ -1,5 +1,5 @@
 USEPOPCORN IS A MOVIE APP 
 1)USESTATE
 2)USEEFFECT
-3)CUSTOM HOOKS
+3)CUSTOM HOOKS(usemovies.js)
 used in this project
