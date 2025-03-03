@@ -8,4 +8,10 @@ THESE ARE MY MINI REACT PRACTICE PROJECTS
 4.A static MOVIE RATING layout.(without api fetch)..
 5.Text expander component (practice)..
 6.USEpopcorn movie app
-7.UseReducer hook pratice(date counter)
+7.UseReducer hook pratice(date counter)..
+
+
+
+
+
+
